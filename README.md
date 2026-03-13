@@ -58,51 +58,12 @@ class KaustubhPawar:
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  MIT World Peace University (MIT-WPU), Pune                     │
-│  Bachelor of Technology — Computer Engineering                  │
-│  📅 [Add your graduation year here]                             │
+│  Master In Computer Application                  │
+│  2024-2026                             │
 └─────────────────────────────────────────────────────────────────┘
-```
 
-> ⚠️ *Fill in your actual college, degree, year, CGPA and any internship/work experience below. I've templated the sections — just replace the placeholder text!*
 
 <br/>
-
-**💼 Experience / Internships**
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  [Company Name]                          [Start] – [End]        │
-│  Role: [Your Role, e.g. Python Developer Intern]                │
-│  • [What you built / contributed]                               │
-│  • [Technologies used]                                          │
-│  • [Impact / outcome]                                           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-**📜 Certifications**
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  [Certificate Name]  —  [Platform: Coursera / Udemy / etc.]    │
-│  [Certificate Name]  —  [Platform]                              │
-│  [Certificate Name]  —  [Platform]                              │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-**🏆 Achievements**
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🥇  [Hackathon / Competition name] — [Rank / Award]            │
-│  🎖️  [Achievement 2]                                            │
-│  📌  [Achievement 3]                                            │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 <br/>
 
 ---
