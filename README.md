@@ -20,19 +20,26 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   > whoami                                                       ║
-║                                                                  ║
-║   Name     :  Kaustubh Pawar                                     ║
-║   Handle   :  kaustubh023                                        ║
-║   Role     :  Full Stack Developer                               ║
-║   Location :  India 🇮🇳                                          ║
-║   Focus    :  Web Apps + Machine Learning                        ║
-║   Status   :  Open to opportunities ✅                           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+## `> whoami`
+
+```python
+class KaustubhPawar:
+
+    name       = "Kaustubh Pawar"
+    username   = "kaustubh023"
+    role       = "Full Stack Developer"
+    location   = "India 🇮🇳"
+
+    stack      = {
+        "frontend"  : ["React 19", "Vite", "Tailwind CSS", "JavaScript"],
+        "backend"   : ["Django REST", "Python", "Java", "JWT Auth"],
+        "data_ml"   : ["Scikit-learn", "Pandas", "Streamlit", "Jupyter"],
+        "database"  : ["SQL", "SQLite"],
+    }
+
+    currently_learning = ["MLOps", "Docker", "XGBoost", "SHAP Values"]
+
+    fun_fact   = "I debug with print() and I'm proud of it 😄"
 ```
 
 <br/>
