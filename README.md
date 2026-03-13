@@ -58,15 +58,9 @@ class KaustubhPawar:
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  MIT World Peace University (MIT-WPU), Pune                     │
-│  Master In Computer Application                  │
-│  2024-2026                             │
+│  Master In Computer Application                                 │
+│  2024-2026                                                      │
 └─────────────────────────────────────────────────────────────────┘
-
-
-<br/>
-<br/>
-
----
 
 ## `> tech_stack --list`
 
