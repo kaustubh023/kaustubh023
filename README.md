@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:00d4ff&height=220&section=header&text=Kaustubh%20Pawar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Django%20%E2%80%A2%20ML&descAlignY=58&descSize=16&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:00d4ff&height=220&section=header&text=Kaustubh%20Pawar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Django%20%E2%80%A2%20ML&descAlignY=58&descSize=17&descColor=00d4ff" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=%3E+Building+full-stack+web+applications...;%3E+Training+ML+models+with+Python...;%3E+Django+REST+%2B+React+%3D+%E2%9D%A4%EF%B8%8F;%3E+Always+learning%2C+always+shipping...;%3E_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=%3E+Building+full-stack+web+applications...;%3E+Predicting+markets+with+ARIMA+%2B+ML...;%3E+Django+REST+%2B+React+%3D+%E2%9D%A4%EF%B8%8F;%3E+Open+to+opportunities+%E2%9C%85;%3E_)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,6 +15,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/kaustubh023?label=FOLLOWERS&style=flat-square&color=00d4ff&labelColor=0a0a0a&logo=github&logoColor=00d4ff)](https://github.com/kaustubh023)
 &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/kaustubh023?label=STARS&style=flat-square&color=39ff14&labelColor=0a0a0a&logo=github&logoColor=39ff14)](https://github.com/kaustubh023)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/kaustubh-pawar-38a21929a/)
 
 </div>
 
@@ -33,8 +35,9 @@ class KaustubhPawar:
     stack      = {
         "frontend"  : ["React 19", "Vite", "Tailwind CSS", "JavaScript"],
         "backend"   : ["Django REST", "Python", "Java", "JWT Auth"],
-        "data_ml"   : ["Scikit-learn", "Pandas", "Streamlit", "Jupyter"],
+        "data_ml"   : ["Scikit-learn", "Pandas", "ARIMA", "Streamlit"],
         "database"  : ["SQL", "SQLite"],
+        "cloud"     : ["Azure", "GitHub Actions"],
     }
 
     currently_learning = ["MLOps", "Docker", "XGBoost", "SHAP Values"]
@@ -43,6 +46,66 @@ class KaustubhPawar:
 ```
 
 <br/>
+
+---
+
+## `> cat experience.log`
+
+<br/>
+
+**🎓 Education**
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MIT World Peace University (MIT-WPU), Pune                     │
+│  Bachelor of Technology — Computer Engineering                  │
+│  📅 [Add your graduation year here]                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+> ⚠️ *Fill in your actual college, degree, year, CGPA and any internship/work experience below. I've templated the sections — just replace the placeholder text!*
+
+<br/>
+
+**💼 Experience / Internships**
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [Company Name]                          [Start] – [End]        │
+│  Role: [Your Role, e.g. Python Developer Intern]                │
+│  • [What you built / contributed]                               │
+│  • [Technologies used]                                          │
+│  • [Impact / outcome]                                           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+**📜 Certifications**
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [Certificate Name]  —  [Platform: Coursera / Udemy / etc.]    │
+│  [Certificate Name]  —  [Platform]                              │
+│  [Certificate Name]  —  [Platform]                              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+**🏆 Achievements**
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🥇  [Hackathon / Competition name] — [Rank / Award]            │
+│  🎖️  [Achievement 2]                                            │
+│  📌  [Achievement 3]                                            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
 
 ## `> tech_stack --list`
 
@@ -74,33 +137,87 @@ class KaustubhPawar:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**[ DATABASE & TOOLS ]**
+**[ DATABASE & CLOUD ]**
 
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 <br/>
 
-## `> ls ./projects`
+---
 
-<div align="center">
-
-| PROJECT | DESCRIPTION | STACK | HIGHLIGHT |
-|:-------:|:------------|:------|:---------:|
-| 🥛 **[MilkMan](https://github.com/kaustubh023/MilkMan)** | Full-stack dairy delivery & subscription platform. Role-based access — Customer, Admin, Staff. Cart, checkout, order & subscription management. | Django REST · React 19 · Vite · Tailwind · JWT · SQLite | `Full-Stack` |
-| 🏦 **[Loan Approval AI](https://github.com/kaustubh023/loan_approval_Project)** | ML-powered loan eligibility predictor. Interactive Streamlit UI with real-time gauge charts, feature importance & confusion matrix. | Python · Scikit-learn · Streamlit · Plotly · Pandas | `89.68% Accuracy` |
-| 📊 **[Bizmetric](https://github.com/kaustubh023/Bizmetric)** | Business analytics system covering hotel & hostel management with data assessment pipelines. | Python · Jupyter Notebooks | `Analytics` |
-| 📈 **[Stock Analysis](https://github.com/kaustubh023/Stock_Analysis_project)** | Data-driven stock market analysis — insights, trends, and visualizations from financial data. | Python · Pandas · Matplotlib | `Data Science` |
-| 🤖 **[ML Flow Project](https://github.com/kaustubh023/ML-Flow-Project-)** | End-to-end ML pipeline exploration — preprocessing, training, evaluation, and model serialization. | Python · Scikit-learn · Joblib | `ML Pipeline` |
-
-</div>
+## `> ls ./projects --detailed`
 
 <br/>
+
+### 📈 [KP Stock Analysis Platform](https://github.com/kaustubh023/Stock_Analysis_project)
+> *Full-stack stock market intelligence platform with ML forecasting*
+
+```
+Tech  :  Django REST · React + Vite · Python · yfinance · ARIMA · JWT · Azure · GitHub Actions
+```
+
+| Feature | Details |
+|:--------|:--------|
+| 📊 **Portfolio Management** | Create portfolios by sector, search Indian stocks by name or ticker |
+| 🔍 **Stock Deep Dive** | PE ratio, EPS, market cap, intrinsic value, discount %, opportunity score |
+| 📉 **Visual Analytics** | Opportunity graph, discount graph, PE graph (1-year historical via yfinance) |
+| ⚖️ **Stock Comparator** | Compare 2 stocks by return, volatility & Sharpe ratio |
+| 🥇 **Gold/Silver Module** | 5-year correlation analysis with line, scatter & regression charts |
+| ₿ **BTC-USD Forecast** | ARIMA-based hourly BTC price prediction with live chart |
+| ☁️ **Deployed** | Azure VM · GitHub Actions CI/CD pipeline |
+
+<br/>
+
+### 🥛 [MilkMan — KP Fresh Dairy](https://github.com/kaustubh023/MilkMan)
+> *Full-stack dairy delivery & subscription management platform*
+
+```
+Tech  :  Django REST · React 19 · Vite · Tailwind CSS · JWT Auth · SQLite
+```
+
+| Feature | Details |
+|:--------|:--------|
+| 👥 **Role-Based Access** | Customer · Admin · Staff — separate dashboards per role |
+| 🛒 **Shopping Flow** | Product catalog, cart, checkout, order tracking |
+| 🔄 **Subscriptions** | Daily subscription management with auto-run scheduler |
+| 🛠️ **Admin Dashboard** | Manage products, orders, staff, subscriptions from one panel |
+| 🔐 **Auth** | JWT-based authentication with role-aware token claims |
+
+<br/>
+
+### 🏦 [Loan Approval AI](https://github.com/kaustubh023/loan_approval_Project)
+> *ML-powered loan eligibility predictor with interactive Streamlit UI*
+
+```
+Tech  :  Python · Scikit-learn · Logistic Regression · Streamlit · Plotly · Pandas
+```
+
+| Feature | Details |
+|:--------|:--------|
+| 🎯 **Accuracy** | **89.68%** on 45,000 records (Kaggle dataset) |
+| 📊 **Visualizations** | Confusion matrix, feature importance, loan distribution charts |
+| ⚡ **Real-time UI** | Interactive gauge showing approval probability |
+| 🔑 **Key Factors** | Credit score, loan-to-income ratio, default history analysis |
+
+<br/>
+
+### 📊 [Bizmetric](https://github.com/kaustubh023/Bizmetric)
+> *Business analytics system — Hotel & Hostel management with data pipelines*
+
+```
+Tech  :  Python · Jupyter Notebooks · Pandas · Data Analysis
+```
+
+<br/>
+
+---
 
 ## `> github --stats`
 
@@ -118,6 +235,8 @@ class KaustubhPawar:
 
 <br/>
 
+---
+
 ## `> cat trophies.log`
 
 <div align="center">
@@ -128,6 +247,8 @@ class KaustubhPawar:
 
 <br/>
 
+---
+
 ## `> git log --activity`
 
 <div align="center">
@@ -137,6 +258,8 @@ class KaustubhPawar:
 </div>
 
 <br/>
+
+---
 
 ## `> cat learning.txt`
 
@@ -154,11 +277,15 @@ $ _
 
 <br/>
 
+---
+
 ## `> ./connect.sh`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-kaustubh023-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)](https://github.com/kaustubh023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaustubh%20Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/kaustubh-pawar-38a21929a/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-kaustubh023-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0a0a)](https://github.com/kaustubh023)
 
 <br/>
 
